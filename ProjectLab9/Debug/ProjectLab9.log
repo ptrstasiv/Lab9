@@ -1,0 +1,18 @@
+﻿  App.cpp
+  MyForm.cpp
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(286,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(286,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(287,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(287,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(288,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(288,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  ProjectLab9.cpp
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(286,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(286,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(287,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(287,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(288,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Dev\Uni\Lab9\ProjectLab9\MyForm.h(288,18): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+  App.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectLab9.vcxproj -> D:\Dev\Uni\Lab9\ProjectLab9\Debug\ProjectLab9.exe
